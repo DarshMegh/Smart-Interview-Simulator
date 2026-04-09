@@ -1,6 +1,6 @@
 import java.util.*;
 
-class QuestionBank {
+public class QuestionBank {
 
     public static List<Question> getQuestions() {
         List<Question> list = new ArrayList<>();
@@ -10,6 +10,7 @@ class QuestionBank {
         list.add(new Question("What is HashMap?", "key value", "medium", "dsa"));
         list.add(new Question("Binary search complexity?", "log n", "medium", "dsa"));
         list.add(new Question("What is Dijkstra?", "shortest path", "hard", "dsa"));
+
         return list;
     }
 }
