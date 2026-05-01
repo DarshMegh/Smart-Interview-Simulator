@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/b43271f6-f911-4988-9271-a8034349f724
+
 # Smart Interview Simulator 🚀
 
 A Java-based console application that simulates real interview scenarios and evaluates user performance using Data Structures.
